@@ -3,11 +3,11 @@
 Canine Class DNA was utilized to showcase the power of multithreading scientific data.  Multithreading refers to having a single processor/CPU handle multiple tasks "threads" simultaneously.
 
 
-# Dataset
+# Dataset:
 A single class sample of the dog canine DNA was utilized for this project.  The full dataset can be found here: https://www.kaggle.com/code/singhakash/dna-sequencing-with-machine-learning/data
 
 
-# Threads Tested
+# Threads Tested:
 1: Single Nucleotide Count
 
 2: Unique Nucleotide Pairings Where Order Matters
@@ -23,7 +23,7 @@ Unique Nucleotide Pairings Where Order Matters, ['AT', 'GG', 'AA', 'AC', 'CC', '
 Most Frequent Identifiable Nucleotide Pairing, {'GC': 85}
 
 
-# Thread vs Normal Time Comparison 
+# Thread vs Normal Time Comparison:
 Time Elapsed, 0.0 : Multithreading
 
 Time Elapsed, 0.0006768703460693359 : Normal
